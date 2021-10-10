@@ -1,0 +1,21 @@
+{
+     "short_name": "Dashlite Cashier",
+     "name": "Dashlite Cashier",
+     "icons": [
+         {
+             "src": "/images/pwa4.png",
+             "type": "image/png",
+             "sizes": "192x192"
+         },
+         {
+             "src": "/images/pwa3.png",
+             "type": "image/png",
+             "sizes": "512x512"
+         }
+     ],
+     "start_url": "http://127.0.0.1/cashier/login",
+     "background_color": "#ffffff",
+     "display": "standalone",
+     "scope":"/",
+     "theme_color": "#e5e5e5"
+ }
